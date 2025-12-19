@@ -53,5 +53,12 @@ A lightweight interactive map for verified local services with real-time availab
 2. Use map navigation or voice search to find services.  
 3. Check real-time availability before visiting.  
 4. Add feedback or community tags for services you used.  
-5. Save frequently visited services to Favorites.  
+5. Save frequently visited services to Favorites.
+
+---
+
+## 🌐 Live Demo
+https://interactive-map-for-local-services.onrender.com
+This project is deployed using Render and can be accessed online.
+
 
