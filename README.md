@@ -59,6 +59,7 @@ A lightweight interactive map for verified local services with real-time availab
 
 ## 🌐 Live Demo
 https://interactive-map-for-local-services.onrender.com
+
 This project is deployed using Render and can be accessed online.
 
 
